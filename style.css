@@ -1,0 +1,19 @@
+.card {
+    border: 1px solid #ddd;
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+  }
+  
+  .btn-primary {
+    width: 100%;
+  }
+  body {
+    background-image: url('https://source.unsplash.com/1600x900/?nature');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
